@@ -16,3 +16,9 @@
 6) **_Pd 6_**:spanish<br>
 7) **_Pd 7_**:lunch <br>
 8) **_Pd 8_**:writing <br>
+
+---
+
+### Favorite foods:
+* japanese cusine
+* korean bqq
