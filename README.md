@@ -6,13 +6,13 @@
 4)I love cats , food and gaming.
 5) Halo is better than cod 
 
-schedule:
+### schedule:
 
-1) Pd 1:gym <br>
-2) Pd 2:global history<br>
-3) Pd 3:chemistry<br>
-4) Pd 4:SEP<br>
-5) Pd 5:advance algebra<br>
-6) Pd 6:spanish<br>
-7) Pd 7:lunch <br>
-8) Pd 8:writing <br>
+1) **_Pd 1_**:gym <br>
+2) **_Pd 2_**:global history<br>
+3) **_Pd 3_**:chemistry<br>
+4) **_Pd 4_**:SEP<br>
+5) **_Pd 5_**:advance algebra<br>
+6) **_Pd 6_**:spanish<br>
+7) **_Pd 7_**:lunch <br>
+8) **_Pd 8_**:writing <br>
