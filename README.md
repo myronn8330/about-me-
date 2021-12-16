@@ -5,6 +5,7 @@
 3) My email school email is myronn8300@hstat.org.
 4) I love cats , food and gaming.
 5) Halo is better than cod 
+6) School [website](https://www.hstat.org/)
 
 ### schedule:
 
