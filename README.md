@@ -22,5 +22,5 @@
 ---
 
 ### Favorite foods:
-* japanese cusine
-* korean bqq
+* Japanese cusine
+* Korean BBQ
