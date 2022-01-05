@@ -6,6 +6,7 @@
 4) I love cats , food and gaming.
 5) Halo is better than cod 
 6) School [website](https://www.hstat.org/)
+7) My birthday is March 24, 2006.
 
 ### schedule:
 
