@@ -10,14 +10,14 @@
 
 ### schedule:
 
-1) **_Pd 1_**:gym 
-2) **_Pd 2_**:global history
-3) **_Pd 3_**:chemistry
-4) **_Pd 4_**:SEP
-5) **_Pd 5_**:advance algebra
-6) **_Pd 6_**:spanish
-7) **_Pd 7_**:lunch 
-8) **_Pd 8_**:writing
+1) **_Pd 1_**: Gym 
+2) **_Pd 2_**: Global history
+3) **_Pd 3_**: Chemistry
+4) **_Pd 4_**: SEP
+5) **_Pd 5_**: Advanced algebra
+6) **_Pd 6_**: Spanish
+7) **_Pd 7_**: Lunch 
+8) **_Pd 8_**: Writing
 
 ---
 
