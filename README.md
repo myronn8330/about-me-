@@ -4,7 +4,7 @@
 2) I got to High School of Telecommunication Arts and Technology.
 3) My email school email is myronn8300@hstat.org.
 4) I love cats , food and gaming.
-5) Halo is better than cod 
+5) Halo is better than cod. 
 6) School [website](https://www.hstat.org/)
 7) My birthday is March 24, 2006.
 
