@@ -1,4 +1,4 @@
-# about-me-
+# about-me
 
 1) My name is Myron Ng.
 2) I got to High School of Telecommunication Arts and Technology.
